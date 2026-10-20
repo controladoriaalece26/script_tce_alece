@@ -1,0 +1,8 @@
+.env
+*.json
+*.xlsx
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
